@@ -23,3 +23,11 @@
                                                                         transform: translate(-50%, -50%);
                                                                         color: white;
                                                                     }
+                                                                    
+                                                                    .sbt {
+                                                                        border: none;
+                                                                        color: white;
+                                                                        text-decoration: none;
+                                                                        margin: 4px 2px;
+                                                                        cursor: pointer;
+                                                                    }
