@@ -4,4 +4,5 @@ let femaleNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
 
 myForm.addEventListener("submit", (e) => {
             const choice = dateChoice(e.target);
+            let selectedDate = new Date(choice.get("date"));
         }
