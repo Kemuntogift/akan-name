@@ -3,7 +3,7 @@ Akan names derivator
 # Author
 By Gift Kemunto
 # Description
-This is a web application that takes a user's birthday and gender then calculates the day of the week they were born and giving their Akan Name. Project can be found by following this link https://kemuntogift.github.io/akanname/
+This is a web application that takes a user's birthday and gender then calculates the day of the week they were born and giving their Akan Name. Project can be found by following this link https://kemuntogift.github.io/akan-name/
  # Setup instructions
  Clone repository or Fork the repository to freely experiment.
  Input date of birth and gender and submit to get a name.
